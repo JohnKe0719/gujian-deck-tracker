@@ -5,7 +5,7 @@
                 <v-combobox
                     v-model="select"
                     :items="cardsComboBox"
-                    label="選擇一張卡片（或者點選下表任一卡片）"
+                    label="選擇一張卡片（或者點選下表任一卡片）test"
                 >
                 </v-combobox>
             </v-col>
