@@ -1,1 +1,0 @@
-export default {"theme":{"options":{"customProperties":true},"primary":"#005CB9","grey":"#595757","sc-blue":"#005CB9","sc-pink":"#FF615F","sc-gray":"#595757","sc-light-gray":"#F8F8F8","sc-text-gray":"#4D4D4D","sc-gray-bgc":"#FAFBFF"}}
